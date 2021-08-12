@@ -1,0 +1,17 @@
+  {
+  "param1":"str",
+  "param2":111,
+  "param2":true,
+  "param3":3.14,
+  "param4":"str2",
+  "param4":222,
+  "param5":false,
+    "param": {
+      "param8": 1.24,
+      "param1": 245
+    },
+    "param0": {
+      "param1": false,
+      "param8": "str8"
+    }
+  }
